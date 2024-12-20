@@ -1,0 +1,63 @@
+About the Sales Dashboard
+
+Overview
+
+This Sales Dashboard is an advanced Excel-based tool that provides a comprehensive analysis of sales data over multiple years. It includes detailed metrics for revenue, profit, costs, units sold, and product performance. The dashboard is designed to be visually appealing and user-friendly, enabling businesses to make informed decisions.
+
+Key Features
+
+Metrics and KPIs:
+
+Total Revenue: $53,094,341,040
+
+Total Profit: $15,697,005,279
+
+Total Cost: $37,397,335,761
+
+Units Sold: 1,991,142,71
+
+Unit Cost: $7,497.500
+
+Unit Price: $10,643.917
+
+Visualizations:
+
+Yearly Trends: Line charts showing annual variations in sales, profit, and cost from 2014 to 2024.
+
+Bar Charts: Comparing yearly revenue and highlighting the top-performing years.
+
+Top 5 Products: Analysis of best-selling products, including Baby Food, Cosmetics, Household Items, Meat, and Office Supplies.
+
+Filtering Options:
+
+Mode: Switch between "Offline" and "Online" sales.
+
+Order Date: Select a specific year or period from 2014 to 2024.
+
+Item Type: Filter by product categories, such as Baby Food, Beverages, Fruits, and Snacks.
+
+Country: Focus on specific regions or countries for targeted analysis.
+
+Design Highlights
+
+Color-coded Sections: Key metrics and visualizations are grouped by color for quick recognition.
+
+Interactive Filters: Dropdowns and slicers for dynamic data filtering.
+
+Modern Layout: Clean and professional design with a focus on usability.
+
+Use Case
+
+This dashboard is ideal for:
+
+Sales Managers: Monitor team performance and identify high-performing products.
+
+Business Analysts: Gain insights into sales trends and optimize strategies.
+
+Executives: Review overall business performance and make strategic decisions.
+
+Requirements
+
+Software: Microsoft Excel 2016 or later.
+
+System: Compatible with Windows and MacOS.
